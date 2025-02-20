@@ -13,12 +13,6 @@
 It is a game that happens at a school. A student ignores the hearsay and needs to take action to survive. She needs to find the road to escape. Player controls the character's movement and action.
 ### Related genre: 
 escape, adventure, puzzle
-### Target Audience: 
-teenagers, students, gamers who like adventure, escape and mystery game
-### Unique Selling Points: 
-The unique style of eerie and dark classrooms inspires the environment in the game. Meanwhile, the common features that students can see every day suddenly become scary.
-
-No map, players can just rely on themselves. 3D style gives the audience a traditional but also modern game feel.
 
 ## Story and Narrative
 ### Backstory
