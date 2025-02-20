@@ -226,32 +226,3 @@ https://www.pexels.com/
 Sound Effect: Youtube
 
 UI design: canva
-
-## Team Communication, Timelines and Task Assignment
-The team will be communicating through Instagram group chat. Code, Unity, and Blender changes should be done through GitHub repository. Timelines and Task Assignment are shown below
-### Rough timeline
-**25th Aug**: GDD and rough Unity Prototype creation
-
-**1th September**: Unity Prototype Completion
-
-### Task Assignment
-1. Junjie Chen
-   * **DUE 21st**  Find character image and make small gifs introducing game movements etc
-   * **DUE 29th**  rough movement Code writing and show
-   * **Ongoing**  level 1 building
-2. Yuan Yuan Ruan
-   * **DUE 21st**  Draw Sketches of Scene1(Akane pushing room 404 and attempting to get in), Scene2(where Akane is locked in room 404)
-   * **DUE 29th**  Character building
-   * **Ongoing**  level 2 building
-3. Hongyue Li
-   * **DUE 21st**  Draw Sketches of Scene1
-   * **DUE 29th**  Envoirnment building including mass and colliders
-   * **Ongoing**  level 3 building
-4. Lok Yiu Wong
-   * **DUE 21st**  Insert images related to the game, visualise and proofread GDD
-   * **DUE 29th**  GDD update and game general improvement, including logic and bug fixing, music importing etc
-   * **Ongoing**  level 4 building and start/end scene creation
-## Possible Challenges
-1. Technical difficulty: none of the members in the group has much experience in completing such a big project
-2. Workload: Some members in the group have taken tough subjects combos and time arrangement can be an issue
-3. Art: some elements in the game may need to be drawn
