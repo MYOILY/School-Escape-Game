@@ -9,6 +9,7 @@
 </div>
 
 ## Game Overview
+https://youtu.be/66z0krdKnAU
 ### Core Concept: 
 It is a game that happens at a school. A student ignores the hearsay and needs to take action to survive. She needs to find the road to escape. Player controls the character's movement and action.
 ### Related genre: 
