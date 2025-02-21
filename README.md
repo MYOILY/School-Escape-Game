@@ -1,4 +1,4 @@
-![scary_classroom](Images/scary_classroom.jpg)
+![classroom1](Images/classroom1.jpg)
 
 <div align="center">
    
