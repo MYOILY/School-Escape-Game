@@ -31,8 +31,6 @@ Akane will need to find the correct way and return to level 4 while passing thro
 
 ### Characters
 
-![image](https://github.com/user-attachments/assets/905d34f5-a2cd-41f4-918c-01764994831e)
-
 Akane is the only character in the game and there is no villain or boss. Akane is a student in this school. 
 To avoid being disappeared in the real world, she needs to find the correct way to escape in a limited time.
 
@@ -81,8 +79,6 @@ The physics of the game will mainly be based on the real world. The character wi
 
 Dark tones with occasional harsh reds and eerie greens to heighten tension. The interface uses minimalist design with a focus on functionality and atmosphere
 
-
-![image](https://github.com/user-attachments/assets/4223c6ce-880f-49f0-baa6-5e5618a0be30)
 
 The characters, environment and game assets are created to imitate the real world to provide a lively atmosphere for the players. The dark long dress and white hair emphasis the eerie atmosphere.
 
