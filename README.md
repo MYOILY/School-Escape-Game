@@ -79,8 +79,6 @@ The physics of the game will mainly be based on the real world. The character wi
 
 ### Art Style 
 
-![corridor2](Images/corridor2.png)
-
 Dark tones with occasional harsh reds and eerie greens to heighten tension. The interface uses minimalist design with a focus on functionality and atmosphere
 
 
