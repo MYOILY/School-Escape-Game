@@ -25,8 +25,6 @@ However, student Akane didn’t listen. She opened the door of the room and went
 Then a notice appears. It says “Why didn’t you listen to the rule? You have now been removed from the real world, you will only have 7 minutes to get the key on the third floor and open this door again to escape. Otherwise, YOU WILL BE DISAPPEARED FOREVER, your student profile will become 404 NOT FOUND in the system and no one will notice. You will be locked in this room till the end of your life." 
 After that, Akane will find herself on level 1. 
 
-![classroom-corridor](Images/classroom-corridor.jpg)
-
 Akane will need to find the correct way and return to level 4 while passing through different classrooms at school. Meanwhile, she needs to be aware of some traps, such as preventing her from stepping into a red block and return back to the starting point of lv2. Player needs to find the key and unlock the door on level 4 to finish the game.
 
 ### Characters
